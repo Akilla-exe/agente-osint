@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+osint_*.html
+snapshots.json
+.env
