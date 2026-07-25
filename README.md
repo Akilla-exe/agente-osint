@@ -1,4 +1,4 @@
-# Agente OSINT
+# Agente OSINT / Desatualizado/Aprimorar
 
 Ferramenta de Open Source Intelligence (OSINT) com análise por IA. Dado um nome, empresa ou username, o agente coleta automaticamente dados públicos de múltiplas fontes e gera um relatório HTML.
 
