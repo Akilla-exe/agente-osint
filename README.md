@@ -63,6 +63,8 @@ O relatório HTML é salvo automaticamente na pasta atual.
 [IA] Gerando análise com Groq...
   [análise em linguagem natural gerada pelo Llama 3]
 
+  ### Manutenção
+
 Relatório salvo: osint_Nubank_17072026_0407.html
 ```
 
